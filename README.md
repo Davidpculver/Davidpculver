@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a full stack web development student at Codeup in San Antonio
+- 🌱 I’m currently learning MySQL
 📫 How to reach me: culver.david.p@gmail.com
