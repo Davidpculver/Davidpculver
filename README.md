@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a full stack web development student at Codeup in San Antonio
 - 🌱 I’m currently learning MySQL
-📫 How to reach me: culver.david.p@gmail.com
+- 📫 How to reach me: culver.david.p@gmail.com
