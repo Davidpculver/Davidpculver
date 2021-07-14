@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a full stack web development student at Codeup in San Antonio
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning how to connect databases to Java
 - 📫 How to reach me: culver.david.p@gmail.com
