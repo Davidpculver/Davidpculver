@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a full stack web development student at Codeup in San Antonio
+- 🌱 I’m currently working on Spring
+- 📫 How to reach me: culver.david.p@gmail.com
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpculver&hide=stars&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpculver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently a full stack web development student at Codeup in San Antonio
-- 🌱 I’m currently learning how to connect databases to Java
-- 📫 How to reach me: culver.david.p@gmail.com
