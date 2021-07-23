@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: culver.david.p@gmail.com
 
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpculver&hide=stars&show_icons=true&theme=react)]
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpculver&hide=stars&show_icons=true&theme=react)(https://github.com/davidpculver/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpculver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpculver&layout=compact)](https://github.com/davidpculver/github-readme-stats)
 
 
