@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpculver)](https://github.com/anuraghazra/github-readme-stats)&hide=stars
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpculver&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently a full stack web development student at Codeup in San Antonio
