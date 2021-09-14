@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a full stack web development student at Codeup in San Antonio
-- 🌱 I’m currently working on Spring
+- 🔭 I am a full stack web developer in San Antonio
+<!-- - 🌱 I’m currently working on Spring -->
 - 📫 How to reach me: culver.david.p@gmail.com
 
 
